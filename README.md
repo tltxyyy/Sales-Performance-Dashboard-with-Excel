@@ -50,7 +50,7 @@ Further conditional formatting serves to grey out those brands that are not in t
 
 ***Filtered Outlet 2***
 
-[DB GC.pdf](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/files/15112544/DB.GC.pdf)
+![DB GC](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/c2afabe9-e70c-4c75-a936-97b1d0348e2e)
 
 ### Visualisations
 
