@@ -43,10 +43,13 @@ Sales mix by vendor and category are conditional formatted to make patterns and 
 #### 2. Table that can be filtered by sales outlet
 
 Further conditional formatting serves to grey out those brands that are not in the outlet.
+
 ***Filtered Outlet 1***
+
 ![DB syd](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/8c2557c6-dcec-4576-b248-5c8fc62d6907)
 
 ***Filtered Outlet 2***
+
 ![DB GC](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/7ae106fb-deeb-4aad-b946-09c26f899a72)
 
 
