@@ -31,21 +31,21 @@ For both sales table dashboards, users can easily select the format and time per
  
 
 
-#### Main table showing aggregated sales
+#### 1. Main table showing aggregated sales
 
 Sales mix by vendor and category are conditional formatted to make patterns and trends more apparent. Intuitive icons are also thoughtfully added like green ticks for when sales hit forecast and upwards arrow for when sales this year went above last year's.
 ![DB Main](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/95de603a-5f6d-428a-beed-417676ff5223)
 
-***This table view is not the full view as some cells are currently grouped. See the next table below for full view.***
+*This table view is not the full view as some cells are currently grouped. See the next table below for full view.*
 
 
-#### Table that can be filtered by sales outlet
+#### 2. Table that can be filtered by sales outlet
 
 Further conditional formatting serves to grey out those brands that are not in the outlet.
-*Filtered Outlet 1*
+***Filtered Outlet 1***
 ![DB syd](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/8c2557c6-dcec-4576-b248-5c8fc62d6907)
 
-*Filtered Outlet 2*
+***Filtered Outlet 2***
 ![DB GC](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/7ae106fb-deeb-4aad-b946-09c26f899a72)
 
 
