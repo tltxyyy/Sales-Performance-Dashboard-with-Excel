@@ -6,10 +6,10 @@
 
 
 ## Dataset
-#### Sample Sales Dataset (per location):
+#### Sample Sales Dataset (data is extracted separately by location)
 ![Sample Sales Dataset](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/dc7248bb-2ff6-4c62-ab57-558fbd3b8ff9)
 
-#### Sample Raw Forecast data (per location):
+#### Sample Raw Forecast data (data is extracted separately by location and year):
 ![Sample FC Data SYD](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/c78b8c47-b7ba-4aed-89be-d47ba78d7425)
 
 #### Aggregated Forecast that combines each raw forecast data from location to one sheet:
