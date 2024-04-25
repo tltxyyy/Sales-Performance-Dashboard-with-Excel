@@ -46,12 +46,11 @@ Further conditional formatting serves to grey out those brands that are not in t
 
 ***Filtered Outlet 1***
 
-![DB syd](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/8c2557c6-dcec-4576-b248-5c8fc62d6907)
+![DB syd](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/1f4fbe4a-5f9a-4d25-95db-086f92204569)
 
 ***Filtered Outlet 2***
 
-![DB GC](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/7ae106fb-deeb-4aad-b946-09c26f899a72)
-
+[DB GC.pdf](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/files/15112544/DB.GC.pdf)
 
 ### Visualisations
 
