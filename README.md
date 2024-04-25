@@ -15,28 +15,35 @@
 #### Aggregated Forecast that combines raw forecast datasets from each location and year to one sheet:
 ![Sample Aggregated FC Data](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/5193b4c6-7f63-4f42-8496-624ec813549b)
 
-## Dashboard
-For both dashboards, users can easily select the format and time period they want to see and analyse with the help of data validation:
+## Dashboard Design
+Two kinds of dashboards are created:
+1. Sales Table: Focuses on showing both sales figures and sales mix to aid buyers during negotiations.
+2. Visualisations: Provides more flexibility to play with other fields like timeline, sub-categories, shop locations that are not shown in the Sales Table.
+
+### Sales Table
+For both sales table dashboards, users can easily select the format and time period they want to see and analyse with the help of data validation:
 * Year
 * Month
 * Format
-*   Month-to-Date
-*   Year-to-Date
+  * Month-to-Date: Shows data from the beginning of selected month up to the current date or last day of selected month, whichever earlier.
+  * Year-to-Date: Shows data from the beginning of  selected year up to the current date or last day of selected year, whichever earlier.
+ 
 
-### Sales Figures
 #### Main Dashboard showing aggregated sales
 Sales mix by vendor and category are conditional formatted to make patterns and trends more apparent. Intuitive icons are also thoughtfully added like green ticks for when sales hit forecast and upwards arrow for when sales this year went above last year's.
 ![DB Main](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/95de603a-5f6d-428a-beed-417676ff5223)
 
 #### Dashboard that can be filtered by sales outlet
 Further conditional formatting serves to grey out those brands that are not in the outlet.
-Filtered outlet 1
-[DB syd.pdf](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/files/15112039/DB.syd.pdf)
+Filtered Outlet 1
+![DB syd](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/8c2557c6-dcec-4576-b248-5c8fc62d6907)
 
-Filtered outlet 2
-[DB GC.pdf](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/files/15112040/DB.GC.pdf)
+Filtered Outlet 2
+![DB GC](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/7ae106fb-deeb-4aad-b946-09c26f899a72)
 
 
 ### Visualisations
+
 ![Dashboard Visualisations - High level](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/9302edcb-423e-46d5-88b4-c700b93a9d89)
 
+![Dashboard Visualisations - Shop level](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/6e98da0b-abf6-41d0-876f-6886041fb2dd)
