@@ -18,7 +18,7 @@ Aggregated Forecast that combines raw forecast datasets from each location and y
 
 ## Dashboard Design
 Two kinds of dashboards are created:
-1. Sales Table: Focuses on showing both sales figures and sales mix to aid buyers during negotiations.
+1. Sales Table: Focuses on showing both sales figures and sales mix to aid buyers not only during negotiations but also when reporting to the management.
 2. Visualisations: Provides more flexibility to play with other fields like timeline, sub-categories, shop locations that are not shown in the Sales Table.
 
 ### Sales Table
