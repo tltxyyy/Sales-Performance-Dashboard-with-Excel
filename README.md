@@ -36,7 +36,7 @@ For both sales table dashboards, users can easily select the format and time per
   * Year-to-Date: Shows data from the beginning of  selected year up to the current date or last day of selected year, whichever earlier.
 
 #### Methodology
-The cornerstone of this approach was leveraging the SUMIFS formula, which allowed for dynamic and targeted data aggregation based on specified criteria. To facilitate the use of SUMIFS, data was strategically organised from various sources into a coherent and standardized format.
+The cornerstone of this approach was leveraging the SUMIFS formula, which allowed for dynamic and targeted data aggregation based on specified criteria. To facilitate the use of SUMIFS, data was strategically organised from various sources into a coherent and standardized format. A combination of other Excel functions like OFFSET and a myriad of date functions to enhance the dashboard's functionality. As the objective is to make this dashboard reusable and easily accessible, the most effective and simplest ways are used to solve what might seem to be a complicated query.
 
 #### 1. Main table showing aggregated sales
 
