@@ -1,8 +1,9 @@
 # Sales-Performance-Dashboard-with-Excel
 
 ## Main Aim
-* Provide a high level view of sales performance, by brand, vendor and category against the forecast for the purchasing team.
-* Sales and Forecast datasets are fed into the dashboard.
+* Create a robust and user-friendly dashboard that provides actionable insights at a glance. The dashboards serves a high level view of sales performance, by brand, vendor and category against the forecast for the entire purchasing team to be used during negotiations and reporting.
+* All data cleaning and dasboards are done solely in Microsft Excel to ensure ease of accessibility for the rest of the team.
+* Sales and Forecast datasets are fed into the dashboard mainly using sumifs formula.
 
 
 ## Dataset
@@ -16,9 +17,9 @@ Aggregated Forecast that combines raw forecast datasets from each location and y
 ![Sample Aggregated FC Data](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/5193b4c6-7f63-4f42-8496-624ec813549b)
 
 ## User Guide
-A separate sheet in the utmost front contains a user guide. With this the dashboard should be intuitive for even those who sees it for the first time.
+The first sheet of this Excel workbook contains a user guide. With this the dashboard should be intuitive for even those who sees it for the first time.
 
-<img width="449" alt="image" src="https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/e07207ef-496a-4c1e-8a74-2441ac0d869e">
+<img width="422" alt="image" src="https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/7093585e-3124-4cee-8c9e-e172b3b0ea64">
 
 
 ## Dashboard Design
@@ -33,8 +34,9 @@ For both sales table dashboards, users can easily select the format and time per
 * Format
   * Month-to-Date: Shows data from the beginning of selected month up to the current date or last day of selected month, whichever earlier.
   * Year-to-Date: Shows data from the beginning of  selected year up to the current date or last day of selected year, whichever earlier.
- 
 
+#### Methodology
+The cornerstone of this approach was leveraging the SUMIFS formula, which allowed for dynamic and targeted data aggregation based on specified criteria. To facilitate the use of SUMIFS, data was strategically organised from various sources into a coherent and standardized format.
 
 #### 1. Main table showing aggregated sales
 
