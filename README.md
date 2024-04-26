@@ -1,8 +1,8 @@
 # Sales-Performance-Dashboard-with-Excel
 
 ## Main Aim
-* Provide a high level view of sales performance, by brand, vendor and category against the forecast.
-* Sales and Forecast datasets are fed into the dashboard
+* Provide a high level view of sales performance, by brand, vendor and category against the forecast for the purchasing team.
+* Sales and Forecast datasets are fed into the dashboard.
 
 
 ## Dataset
@@ -53,7 +53,10 @@ Further conditional formatting serves to grey out those brands that are not in t
 ![DB GC](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/c2afabe9-e70c-4c75-a936-97b1d0348e2e)
 
 ### Visualisations
+Although still in progress, the visualisations has served to be useful during negotiations when answering questions for suppliers and planning for brands in different locations. This dashboard was designed for more flexibility allowing the user to not just filter by outlet and brand but also select the range of timeline freely in denominations of months. By visualising the sales in line graph, users can also understand the trend easily
 
+#### 1. Visualisation Dashboard 1
 ![Dashboard Visualisations - High level](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/9302edcb-423e-46d5-88b4-c700b93a9d89)
 
+#### 2. Visualisation Dashboard 1
 ![Dashboard Visualisations - Shop level](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/6e98da0b-abf6-41d0-876f-6886041fb2dd)
