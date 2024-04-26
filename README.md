@@ -63,6 +63,9 @@ Further conditional formatting serves to grey out those brands that are not in t
 ### Visualisations
 Although still in progress, the visualisations has served to be useful during negotiations when answering questions for suppliers and planning for brands in different locations. This dashboard was designed for more flexibility allowing the user to not just filter by outlet and brand but also select the range of timeline freely in denominations of months. By visualising the sales in line graph, users can also understand the trend easily
 
+####
+Pivot tables and pivot charts are utilised to create the visualisations here. Slicers are also leveraged upon to make the dashboard more interactive and dynamic.
+
 #### 1. Visualisation Dashboard 1
 ![Dashboard Visualisations - High level](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/9302edcb-423e-46d5-88b4-c700b93a9d89)
 
