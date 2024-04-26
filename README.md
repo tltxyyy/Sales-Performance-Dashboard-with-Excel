@@ -17,7 +17,8 @@ Aggregated Forecast that combines raw forecast datasets from each location and y
 
 ## User Guide
 A separate sheet in the utmost front contains a user guide. With this the dashboard should be intuitive for even those who sees it for the first time.
-<img width="549" alt="image" src="https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/e07207ef-496a-4c1e-8a74-2441ac0d869e">
+
+<img width="449" alt="image" src="https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/e07207ef-496a-4c1e-8a74-2441ac0d869e">
 
 
 ## Dashboard Design
