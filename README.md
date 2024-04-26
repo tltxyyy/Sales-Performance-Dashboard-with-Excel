@@ -15,6 +15,10 @@ Sample Raw Forecast data (data is extracted separately by location and year):
 Aggregated Forecast that combines raw forecast datasets from each location and year to one sheet:
 ![Sample Aggregated FC Data](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/5193b4c6-7f63-4f42-8496-624ec813549b)
 
+## User Guide
+A separate sheet in the utmost front contains a user guide. With this the dashboard should be intuitive for even those who sees it for the first time.
+![User guide](https://github.com/tltxyyy/Sales-Performance-Dashboard-with-Excel/assets/69724535/6df4e060-c0b2-4c58-82f4-884a6a9b6d1c)
+
 
 ## Dashboard Design
 Two kinds of dashboards are created:
